@@ -4,6 +4,6 @@ class SongsController < ApplicationController
   end
 
   def show
-
+    @song = 
   end
 end
