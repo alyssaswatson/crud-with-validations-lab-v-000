@@ -20,7 +20,7 @@ class SongsController < ApplicationController
       render :new
     end
   end
-  
+
   private
 
   def song_params
@@ -29,4 +29,3 @@ class SongsController < ApplicationController
     )
   end
 end
-
